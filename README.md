@@ -18,6 +18,7 @@ I am a security-driven professional dedicated to defending digital infrastructur
 *Showcasing hands-on experience in defensive and offensive operations.*
 
 ### 🛡️ Security Operations & Detection
+- #### [Internal Security Audit & NIST CSF Gap Analysis](https://github.com/leoul07/Internal-Security-Audit-and-NIST-CSF-Gap-Analysis/tree/main)
 - **Threat Hunting Lab:** [Brief description or link to repo]
 - **SIEM Log Analysis Lab:** [Brief description or link to repo]
 - **Windows Event Log Monitoring:** [Brief description or link to repo]
