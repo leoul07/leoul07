@@ -20,6 +20,7 @@ I am a security-driven professional dedicated to defending digital infrastructur
 ### 🛡️ Security Operations & Detection
 - #### [Internal Security Audit & NIST CSF Gap Analysis](https://github.com/leoul07/Internal-Security-Audit-and-NIST-CSF-Gap-Analysis/tree/main)
 - #### [Incident Response Analysis Using NIST CSF](https://github.com/leoul07/nist-csf-incident-response)
+- #### [Least Privilege Enforcement: Linux File Permission Audit & Remediation](https://github.com/leoul07/linux-least-privilege-audit-remediation)
 
 **Threat Hunting Lab:** [Brief description or link to repo]
 - **SIEM Log Analysis Lab:** [Brief description or link to repo]
