@@ -22,6 +22,7 @@ I am a security-driven professional dedicated to defending digital infrastructur
 - #### [Incident Response Analysis Using NIST CSF](https://github.com/leoul07/nist-csf-incident-response)
 - #### [Least Privilege Enforcement: Linux File Permission Audit & Remediation](https://github.com/leoul07/linux-least-privilege-audit-remediation)
 - #### [SQL Security Investigation Login Activity & Asset Review](https://github.com/leoul07/sql-security-investigation-login-activity-and-asset-review)
+- #### [Vulnerability Assessment Report: Small Business E-Commerce](https://github.com/leoul07/vulnerability-assessment-small-business-ecommerce)
 
 
 **Threat Hunting Lab:** [Brief description or link to repo]
