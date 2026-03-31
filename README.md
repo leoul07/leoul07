@@ -18,11 +18,12 @@ I am a security-driven professional dedicated to defending digital infrastructur
 *Showcasing hands-on experience in defensive and offensive operations.*
 
 ### 🛡️ Security Operations & Detection
-- #### [Internal Security Audit & NIST CSF Gap Analysis](https://github.com/leoul07/Internal-Security-Audit-and-NIST-CSF-Gap-Analysis/tree/main)
-- #### [Incident Response Analysis Using NIST CSF](https://github.com/leoul07/nist-csf-incident-response)
-- #### [Least Privilege Enforcement: Linux File Permission Audit & Remediation](https://github.com/leoul07/linux-least-privilege-audit-remediation)
-- #### [SQL Security Investigation Login Activity & Asset Review](https://github.com/leoul07/sql-security-investigation-login-activity-and-asset-review)
-- #### [Vulnerability Assessment Report: Small Business E-Commerce](https://github.com/leoul07/vulnerability-assessment-small-business-ecommerce)
+- ### 🔐 [Internal Security Audit & NIST CSF Gap Analysis](https://github.com/leoul07/Internal-Security-Audit-and-NIST-CSF-Gap-Analysis/tree/main)
+- ### 🚨 [Incident Response Analysis Using NIST CSF](https://github.com/leoul07/nist-csf-incident-response)
+- ### 🔑 [Least Privilege Enforcement: Linux File Permission Audit & Remediation](https://github.com/leoul07/linux-least-privilege-audit-remediation)
+- ### 🗄️ [SQL Security Investigation Login Activity & Asset Review](https://github.com/leoul07/sql-security-investigation-login-activity-and-asset-review)
+- ### ⚠️ [Vulnerability Assessment Report: Small Business E-Commerce](https://github.com/leoul07/vulnerability-assessment-small-business-ecommerce)
+- ### 🤖 [Automating IP Allow-List Management with Python](https://github.com/leoul07/automating-ip-allow-list-management-with-python)
 
 
 **Threat Hunting Lab:** [Brief description or link to repo]
