@@ -25,6 +25,13 @@ I am a security-driven professional dedicated to defending digital infrastructur
 - ### ⚠️ [Vulnerability Assessment Report: Small Business E-Commerce](https://github.com/leoul07/vulnerability-assessment-small-business-ecommerce)
 - ### 🤖 [Automating IP Allow-List Management with Python](https://github.com/leoul07/automating-ip-allow-list-management-with-python)
 
+---
+
+## 🎓 Virtual Cybersecurity Job Simulations
+- ### [Mastercard Cybersecurity: Phishing Defense & Awareness](https://github.com/leoul07/mastercard-phishing-simulation-security-awareness)
+
+- ### [AIG Shields Up: Cybersecurity](https://github.com/leoul07/aig-shields-up-cybersecurity)
+
 
 **Threat Hunting Lab:** [Brief description or link to repo]
 - **SIEM Log Analysis Lab:** [Brief description or link to repo]
