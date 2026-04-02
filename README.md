@@ -67,16 +67,16 @@ I am a security-driven professional dedicated to defending digital infrastructur
 ---
 ## 📜 Certifications
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5700d7ca-892b-4ca1-bd86-193b895072f9" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/65ae2711-5297-4b35-8dcd-8d436f15729f" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/10ff3405-e23f-4f87-8ead-8785d4acc59f" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/458cf213-17e6-4dc6-aaea-d96f31c8eb89" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4cd4dce6-b463-476c-a708-77b593f1790a" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/062c517a-4ef3-4287-a4e6-8ceaad5b622e" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/42470ddd-7276-414a-89d4-5c39bba9d02f" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1543e189-4326-42b3-ad0f-8ef048f077ff" />
-  <img width="000" height="100" alt="image" src="https://github.com/user-attachments/assets/660785a8-a012-4a31-ae0d-7cbaf18774fd" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c72597ef-33ed-4fdc-a65b-6340d8b4ef03" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f0569995-aeaf-451b-9518-213b61f9ae9d" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/874960bc-36e1-470f-8062-10ecc4cea7e2" />
   
 
   
+
 
 
 - 🎓 **Cybersecurity Virtual Experience Programs:** Tata, AIG, Mastercard
