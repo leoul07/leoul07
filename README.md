@@ -35,22 +35,8 @@ I am a security-driven professional dedicated to defending digital infrastructur
 - ### [TATA Consultancy Services (TCS) Cybersecurity - IAM Developer](https://github.com/leoul07/tcs-cybersecurity-iam-developer)
   
 - ### [DATACOM Cyber Security Operations](https://github.com/leoul07/datacom-cyber-security-operations)
-**Threat Hunting Lab:** [Brief description or link to repo]
-- **SIEM Log Analysis Lab:** [Brief description or link to repo]
-- **Windows Event Log Monitoring:** [Brief description or link to repo]
 
-### 💻 Penetration Testing
-- **Active Directory Attack Lab:** [Brief description or link to repo]
-- **Metasploit Exploitation Lab:** [Brief description or link to repo]
-- **Network Scanning with Nmap:** [Brief description or link to repo]
-
-### 🧪 Home Lab Projects
-- **Home Lab Infrastructure:** Building a secure virtualized environment for testing.
-- **Network Traffic Analysis:** Using Wireshark to identify malicious patterns.
-- **Vulnerability Scanning Lab:** Automated scanning and remediation reporting.
-
----
-
+- ### [Deloitte Cyber: Internal Threat & Forensic Analysis](https://github.com/leoul07/deloitte-cyber-internal-threat-forensic-analysis)
 
 
 ## 🧰 Technical Toolkit
@@ -70,8 +56,8 @@ I am a security-driven professional dedicated to defending digital infrastructur
 ## 📜 Certifications
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5700d7ca-892b-4ca1-bd86-193b895072f9" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4cd4dce6-b463-476c-a708-77b593f1790a" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/062c517a-4ef3-4287-a4e6-8ceaad5b622e" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/42470ddd-7276-414a-89d4-5c39bba9d02f" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/062c517a-4ef3-4287-a4e6-8ceaad5b622e" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/42470ddd-7276-414a-89d4-5c39bba9d02f" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1543e189-4326-42b3-ad0f-8ef048f077ff" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f0569995-aeaf-451b-9518-213b61f9ae9d" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/874960bc-36e1-470f-8062-10ecc4cea7e2" />
