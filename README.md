@@ -53,22 +53,22 @@ I am a security-driven professional dedicated to defending digital infrastructur
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge)
 
 ---
+
+## 🎓 Education  
+- **Bachelor of Applied Science: Cybersecurity**
+
 ## 📜 Certifications
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5700d7ca-892b-4ca1-bd86-193b895072f9" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4cd4dce6-b463-476c-a708-77b593f1790a" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/062c517a-4ef3-4287-a4e6-8ceaad5b622e" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/42470ddd-7276-414a-89d4-5c39bba9d02f" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1543e189-4326-42b3-ad0f-8ef048f077ff" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f0569995-aeaf-451b-9518-213b61f9ae9d" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/874960bc-36e1-470f-8062-10ecc4cea7e2" />
-  
 
-  
-
-
-
-- 🎓 **Cybersecurity Virtual Experience Programs:** Tata, AIG, Mastercard
-- 🎓 **Bachelor of Science in Cybersecurity**
+<p>
+  <img src="https://github.com/user-attachments/assets/5700d7ca-892b-4ca1-bd86-193b895072f9" width="100"/>
+  <img src="https://github.com/user-attachments/assets/4cd4dce6-b463-476c-a708-77b593f1790a" width="100"/>
+  <img src="https://github.com/user-attachments/assets/062c517a-4ef3-4287-a4e6-8ceaad5b622e" width="100"/>
+  <img src="https://github.com/user-attachments/assets/42470ddd-7276-414a-89d4-5c39bba9d02f" width="100"/>
+  <img src="https://github.com/user-attachments/assets/8815f6c1-92fc-4942-82b4-906fd4ee9a2e" width="100"/>
+  <img src="https://github.com/user-attachments/assets/1543e189-4326-42b3-ad0f-8ef048f077ff" width="100"/>
+  <img src="https://github.com/user-attachments/assets/f0569995-aeaf-451b-9518-213b61f9ae9d" width="100"/>
+  <img src="https://github.com/user-attachments/assets/874960bc-36e1-470f-8062-10ecc4cea7e2" width="100"/>
+</p>
 
 ---
 
