@@ -58,8 +58,18 @@ I am a security-driven professional dedicated to defending digital infrastructur
 
 ---
 
-## 🎓 Education  
-- **Bachelor of Applied Science: Cybersecurity**
+## 🎓 Education
+
+### 🛡️ Bachelor of Applied Science: Cybersecurity
+
+| Specialization | Core Domains |
+| :--- | :--- |
+| **🛡️ Defensive Security** | Network Defense \| Threat Detection \| Threat Hunting \| Security Hardening |
+| **🔍 Digital Forensics & Cybercrime** | Digital Forensics \| Evidence Analysis \| Auditing |
+| **🔐 Information Assurance** | Risk Management \| Security Accreditation \| Cloud Security \| Compliance |
+| **💻 Systems & Cloud Architecture** | Linux/Windows Security \| Cloud Infrastructure \| System Hardening |
+
+
 
 ## 📜 Certifications
 <a href="https://www.credly.com/badges/d7730b99-7535-4b9a-ad7f-045bcd2ed13c/public_url" title="Verify on Credly"><img src="https://github.com/user-attachments/assets/5700d7ca-892b-4ca1-bd86-193b895072f9" alt="CompTIA Security+" width="100"/></a>
