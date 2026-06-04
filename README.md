@@ -21,9 +21,9 @@ I am a security-driven professional dedicated to defending digital infrastructur
 ## 🔬 Featured Cybersecurity Projects
 *Showcasing hands-on experience in defensive and offensive operations.*
 
-### 🛡️ Security Operations & Detection
 - ### 🔐 [Internal Security Audit & NIST CSF Gap Analysis](https://github.com/leoul07/Internal-Security-Audit-and-NIST-CSF-Gap-Analysis/tree/main)
 - ### 🚨 [Incident Response Analysis Using NIST CSF](https://github.com/leoul07/nist-csf-incident-response)
+- ### 🧪 [Self-Hosted Penetration Testing Lab](https://github.com/leoul07/self-hosted-pentest-lab)
 - ### 🔑 [Least Privilege Enforcement: Linux File Permission Audit & Remediation](https://github.com/leoul07/linux-least-privilege-audit-remediation)
 - ### 🗄️ [SQL Security Investigation Login Activity & Asset Review](https://github.com/leoul07/sql-security-investigation-login-activity-and-asset-review)
 - ### ⚠️ [Vulnerability Assessment Report: Small Business E-Commerce](https://github.com/leoul07/vulnerability-assessment-small-business-ecommerce)
