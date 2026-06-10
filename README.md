@@ -29,6 +29,7 @@ I am a security-driven professional dedicated to defending digital infrastructur
 - ### ⚠️ [Vulnerability Assessment Report: Small Business E-Commerce](https://github.com/leoul07/vulnerability-assessment-small-business-ecommerce)
 - ### 📓 [Incident Handler's Journal](https://github.com/leoul07/Incident-Handlers-Journal/tree/main)
 - ### 🤖 [Automating IP Allow-List Management with Python](https://github.com/leoul07/automating-ip-allow-list-management-with-python)
+- ### 🛡️ [Guardian-Sentinel: A Python-Based Network Packet Sniffer for Attack Detection](https://github.com/leoul07/Guardian-Sentinel-Python-Newtork-Packet-Sniffer)
 
 ---
 
