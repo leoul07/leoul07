@@ -1,5 +1,7 @@
-# Hi there 👋, I'm Leoul!
 
+
+
+![Cybersecurity Portfolio](./profile-banner.gif)
 
 ## 👨‍💻 Professional Summary
 <p>
