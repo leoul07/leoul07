@@ -1,7 +1,4 @@
-
-
-
-![Cybersecurity Portfolio](./profile-banner.gif)
+![Leoul's Cybersecurity Portfolio](./profile-banner.gif)
 
 ## 👨‍💻 Professional Summary
 <p>
