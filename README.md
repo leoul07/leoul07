@@ -1,9 +1,6 @@
 ![Leoul's Cybersecurity Portfolio](./profile-banner.gif)
 
 ## 👨‍💻 Professional Summary
-<p>
-<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=false&vCenter=false&width=500&height=50&lines=Cybersecurity+Professional;CompTIA+Security%2B;SOC+Analyst+Path;Home+Lab+Builder">
-</p>
 
 I am a security-driven professional dedicated to defending digital infrastructure and neutralizing sophisticated threats. With a core expertise in Network Defense, Intrusion Detection, and Digital Forensics, I focus on building resilient environments and staying ahead of the evolving threat landscape. I enjoy building **hands-on security labs, penetration testing environments, and defensive security projects.**
 
