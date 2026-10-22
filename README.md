@@ -54,28 +54,35 @@ I am a security-driven professional dedicated to defending digital infrastructur
 
 ## 🎓 Virtual Cybersecurity Job Simulations
 - ### [Mastercard Cybersecurity: Phishing Defense & Awareness](https://github.com/leoul07/mastercard-phishing-simulation-security-awareness)
+  - **Summary:** Designed a targeted Black Friday phishing simulation and analyzed departmental success rates to build a data-driven security awareness strategy for high-risk human layers.
 
 - ### [AIG Shields Up: Cybersecurity](https://github.com/leoul07/aig-shields-up-cybersecurity)
+  - **Summary:** Responded to simulated zero-day Log4j vulnerabilities and ransomware execution by analyzing security alerts, deploying script-based file decryption, and authoring multi-stakeholder advisories.
 
 - ### [TATA Consultancy Services (TCS) Cybersecurity - IAM Developer](https://github.com/leoul07/tcs-cybersecurity-iam-developer)
+  - **Summary:** Evaluated corporate IAM readiness and designed custom identity lifecycle frameworks enforcing role-based access control, principle of least privilege, and multi-factor authentication.
   
 - ### [DATACOM Cyber Security Operations](https://github.com/leoul07/datacom-cyber-security-operations)
+  - **Summary:** Triaged incoming security events and investigated enterprise telemetry anomalies to maintain operational stability and rapid incident containment.
 
 - ### [Deloitte Cyber: Internal Threat & Forensic Analysis](https://github.com/leoul07/deloitte-cyber-internal-threat-forensic-analysis)
+  - **Summary:** Examined insider threat indicators and conducted forensic analysis on compromised digital artifacts to reconstruct attack vectors and formulate risk mitigation plans.
 
 
 ## 🧰 Technical Toolkit
 
-### Security Tools
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-00457C?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2C2C2C?style=for-the-badge)
+### Security Tools & Frameworks
+[![Wireshark](https://img.shields.io/badge/Wireshark-1651AF?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org) 
+[![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org) 
+[![Metasploit](https://img.shields.io/badge/Metasploit-1C1C1C?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com) 
+[![NIST CSF](https://img.shields.io/badge/NIST_CSF-003366?style=for-the-badge&logo=nist&logoColor=white)](https://www.nist.gov/cyberframework)
 
-### Systems & Scripting
-![Lihttps://github.com/leoul07/leoul07/projectsnux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge)
+### Systems, Scripting & Infrastructure
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org) 
+[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server) 
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows-11&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/active-directory) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) 
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ---
 
